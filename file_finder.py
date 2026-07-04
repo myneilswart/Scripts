@@ -6,8 +6,7 @@ No files are copied or moved — only their URIs are collected.
 
 Results are:
   • Printed to the terminal
-  • Saved as a clickable HTML report and/or txt file to selected location (default save to Desktop)
-    Each link opens the file's folder in File Explorer, not the file itself.
+  • Saved as a clickable HTML report and/or txt file to selected location (default save to User Desktop)
 
 Hidden file support:
   • Uses Windows file attributes (FILE_ATTRIBUTE_HIDDEN = 0x2) via ctypes
